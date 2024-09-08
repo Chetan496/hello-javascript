@@ -16,7 +16,6 @@ class Person {
 
 }
 
-// Sintaxis
 
 let person = new Person("Brais", 37, "MoureDev")
 let person2 = new Person("Brais", 37, "MoureDev")
